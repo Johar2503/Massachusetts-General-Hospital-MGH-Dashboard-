@@ -35,18 +35,18 @@ Total procedures covered by insurance.
 8) Finally, Customize the visualized report by changing font, colors, background and applied many effects to make the dashboard interesting.
 
 ## Steps for dashboard creation:
--  : Data Connection: Extract the data
+-   Data Connection: Extract the data
 
--  : Data Transformation: Clean the unnecessary data and transform it as per the requirement.
+-   Data Transformation: Clean the unnecessary data and transform it as per the requirement.
 
--  : Data Modelling: Establish the relations between the data to avoid inappropriate result.
+-   Data Modelling: Establish the relations between the data to avoid inappropriate result.
 
--  : Load Data: Load the Transformed data and create Calculated measures and columns using strong DAX as per requirement.
+-   Load Data: Load the Transformed data and create Calculated measures and columns using strong DAX as per requirement.
 
--  : Data Visualization: Using various visualizations tools create graphs such as pie, bar, histogram charts etc. to visualize the data and creating reports within Report view.
+-   Data Visualization: Using various visualizations tools create graphs such as pie, bar, histogram charts etc. to visualize the data and creating reports within Report view.
 
--  : Formatting: After completion of creating report format the view through various themes and layouts.
+-   Formatting: After completion of creating report format the view through various themes and layouts.
 
--  : Add filters, slicers for interactive reports.
+-   Add filters, slicers for interactive reports.
 
--  : Finally, publish the report.
+-   Finally, publish the report.
